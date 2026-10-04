@@ -1,0 +1,12 @@
+title: "GreenGrid Energy Project"
+description: ""
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+plugins:
+  - jekyll-seo-tag

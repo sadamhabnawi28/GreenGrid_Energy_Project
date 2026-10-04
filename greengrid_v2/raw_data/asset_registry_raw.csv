@@ -1,0 +1,7 @@
+asset_id,asset_name,technology,region,grid_node,capacity_mw,commission_date,asset_status,source_system
+SOL-N01,North Solar One,Solar PV,North,NORTH_A,180,2023-06-01,Operational,ASSET_REGISTRY
+SOL-N02,North Solar Two,Solar PV , North,NORTH_A,140,2024-03-15,Operational,ASSET_REGISTRY
+WND-N01,North Wind One,Wind,North,NORTH_B,220,2022-10-01,Operational,ASSET_REGISTRY
+SOL-C01,Central Solar One,Solar PV,Central,CENTRAL_A,160,2023-01-10,Operational,ASSET_REGISTRY
+SOL-C02,Central Solar Two,SOLAR PV,Central,CENTRAL_A,110,2024-07-01,Operational,ASSET_REGISTRY
+WND-C01,Central Wind One,Wind,central,CENTRAL_B,180,2022-05-20,Operational,ASSET_REGISTRY
