@@ -1138,7 +1138,7 @@ class OutputManager:
         total_potential = clean_truth["potential_renewable_mwh"].sum()
         total_actual = clean_truth["actual_renewable_mwh"].sum()
         total_curtailment = clean_truth["curtailment_mwh"].sum()
-        curtailment_rate = total_curtailment / total_potential * 100
+        curtailment_rate = total_curtailment / total_potential
         total_potential_surplus = clean_truth["potential_surplus_mwh"].sum()
         total_actual_surplus = clean_truth["actual_surplus_mwh"].sum()
         peak_curtailment = clean_truth["curtailment_mwh"].max()
