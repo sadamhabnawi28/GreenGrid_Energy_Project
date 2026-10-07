@@ -26,7 +26,7 @@ class GreenGridConfig:
     seed: int = 42
     start: str = "2025-01-01 00:00:00"
     end: str = "2025-12-31 23:00:00"
-    base_dir: Path = Path("greengrid_v2_2")
+    base_dir: Path = Path("datasets/greengrid_v2_2")
 
     @property
     def raw_dir(self) -> Path:
