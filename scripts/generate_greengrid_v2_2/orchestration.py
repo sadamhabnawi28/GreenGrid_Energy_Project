@@ -135,5 +135,5 @@ class GreenGridPipeline:
             "kpis": kpis,
         }
 
-if __name__ == "__main__":
-    GreenGridPipeline().run()
+# if __name__ == "__main__":
+#     GreenGridPipeline().run()
