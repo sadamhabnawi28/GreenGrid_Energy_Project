@@ -107,7 +107,7 @@ END = "2025-12-31 23:00:00"
 
 rng = np.random.default_rng(SEED)
 
-BASE_DIR = Path("greengrid_v2_1")
+BASE_DIR = Path("datasets/greengrid_v2_1")
 RAW_DIR = BASE_DIR / "raw_data"
 REF_DIR = BASE_DIR / "reference"
 META_DIR = BASE_DIR / "metadata"
