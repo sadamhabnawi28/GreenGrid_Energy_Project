@@ -1,0 +1,31 @@
+table,issue_type,column,affected_records,description
+scada_generation_raw,duplicate_rows,multiple_columns,105,Exact duplicate records inserted to simulate repeated source extraction.
+scada_generation_raw,missing_values,availability_pct,105,Random operational readings removed from raw extract.
+scada_generation_raw,timestamp_format,timestamp,210,Multiple timestamp formats inserted.
+scada_generation_raw,numeric_as_text,availability_pct,157,Numeric values stored as strings in source extract.
+scada_generation_raw,physical_outlier,availability_pct,6,Impossible negative or above-100% availability readings inserted.
+ems_operations_raw,duplicate_rows,multiple_columns,17,Exact duplicate records inserted to simulate repeated source extraction.
+ems_operations_raw,missing_values,total_demand_mwh,17,Random operational readings removed from raw extract.
+ems_operations_raw,timestamp_format,timestamp,35,Multiple timestamp formats inserted.
+ems_operations_raw,numeric_as_text,total_demand_mwh,26,Numeric values stored as strings in source extract.
+ems_operations_raw,unit_inconsistency,demand_unit,8,A small number of records use MW while the operational field is hourly MWh.
+bess_operations_raw,duplicate_rows,multiple_columns,35,Exact duplicate records inserted to simulate repeated source extraction.
+bess_operations_raw,missing_values,charge_mwh,52,Random operational readings removed from raw extract.
+bess_operations_raw,timestamp_format,timestamp,70,Multiple timestamp formats inserted.
+bess_operations_raw,inconsistent_categories,region,175,Capitalization and whitespace variations inserted.
+bess_operations_raw,physical_outlier,charge_mwh,8,Charge readings outside physically plausible hourly battery power limits inserted.
+weather_station_raw,duplicate_rows,multiple_columns,17,Exact duplicate records inserted to simulate repeated source extraction.
+weather_station_raw,missing_values,wind_speed_mps,35,Random operational readings removed from raw extract.
+weather_station_raw,timestamp_format,timestamp,35,Multiple timestamp formats inserted.
+weather_station_raw,physical_outlier,wind_speed_mps,6,Negative and implausibly high wind-speed readings inserted.
+market_price_raw,duplicate_rows,multiple_columns,17,Exact duplicate records inserted to simulate repeated source extraction.
+market_price_raw,missing_values,market_price_usd_per_mwh,17,Random operational readings removed from raw extract.
+market_price_raw,timestamp_format,timestamp,35,Multiple timestamp formats inserted.
+market_price_raw,numeric_as_text,market_price_usd_per_mwh,26,Numeric values stored as strings in source extract.
+dispatch_curtailment_log_raw,duplicate_rows,multiple_columns,3,Exact duplicate records inserted to simulate repeated source extraction.
+dispatch_curtailment_log_raw,inconsistent_categories,reason,6,Capitalization and whitespace variations inserted.
+dispatch_curtailment_log_raw,missing_values,reason,4,Random operational readings removed from raw extract.
+dispatch_curtailment_log_raw,timestamp_format,start_time,3,Multiple timestamp formats inserted into dispatch event timestamps.
+dispatch_curtailment_log_raw,timestamp_format,end_time,3,Multiple timestamp formats inserted into dispatch event timestamps.
+asset_registry_raw,inconsistent_categories,region,2,Capitalization and whitespace variations inserted.
+asset_registry_raw,inconsistent_categories,technology,2,Capitalization and whitespace variations inserted.
