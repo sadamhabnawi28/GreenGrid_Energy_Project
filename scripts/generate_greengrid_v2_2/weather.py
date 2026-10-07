@@ -45,7 +45,7 @@ class WeatherStationGenerator:
                 )
 
     def wind_speed(self, days, hours, n_hours):
-        # Wind resource.
+        """Wind resource."""
         wind_speed = (
                     7.0
                     + 1.3 * np.sin(2 * np.pi * (days - 40) / 365)
