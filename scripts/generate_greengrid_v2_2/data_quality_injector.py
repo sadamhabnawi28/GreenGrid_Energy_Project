@@ -2,6 +2,11 @@ from typing import Dict, List
 import pandas as pd
 import numpy as np
 
+# ============================================================================
+# 7. DATA QUALITY INJECTION
+# ============================================================================
+
+
 class DataQualityInjector:
     """Injects the same intentional raw-data issues used by V2.1."""
 
