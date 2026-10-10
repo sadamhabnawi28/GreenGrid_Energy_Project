@@ -2,6 +2,11 @@ from configuration import GreenGridConfig, TimeContext
 import numpy as np
 import pandas as pd
 
+# ============================================================================
+# 5. SYSTEM OPERATIONS MODEL
+# ============================================================================
+
+
 class SystemOperationsModel:
     """Generates demand, grid constraints, BESS dispatch, EMS and market data."""
 
@@ -370,6 +375,11 @@ class SystemOperationsModel:
 
         ems = hourly_generation.copy()
         ems["total_demand_mwh"] = demand
+        # Regional demand uses the same 45% / 55% allocation already applied
+        # by the V2.1-compatible BESS and dispatch models. Exposing these
+        # inputs in the EMS extract does not alter the dispatch calculations.
+        ems["north_demand_mwh"] = dispatch["north_demand"].to_numpy()
+        ems["central_demand_mwh"] = dispatch["central_demand"].to_numpy()
         ems["potential_surplus_mwh"] = np.maximum(
             ems["potential_renewable_mwh"] - ems["total_demand_mwh"],
             0,
