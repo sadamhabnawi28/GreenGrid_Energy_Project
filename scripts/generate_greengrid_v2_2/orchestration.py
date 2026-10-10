@@ -8,6 +8,11 @@ from data_quality_injector import DataQualityInjector
 from validation_and_output import OutputManager
 import numpy as np
 
+# ============================================================================
+# 9. ORCHESTRATION
+# ============================================================================
+
+
 class GreenGridPipeline:
     """Coordinates the end-to-end synthetic data generation workflow."""
 
@@ -135,5 +140,10 @@ class GreenGridPipeline:
             "kpis": kpis,
         }
 
-# if __name__ == "__main__":
-#     GreenGridPipeline().run()
+# ============================================================================
+# 10. ENTRY POINT
+# ============================================================================
+
+
+if __name__ == "__main__":
+    GreenGridPipeline().run()
