@@ -2,6 +2,11 @@ import pandas as pd
 from typing import Dict
 
 
+# ============================================================================
+# 6. RAW EXTRACT BUILDER
+# ============================================================================
+
+
 class RawExtractBuilder:
     """Creates clean source-system extracts before data-quality injection."""
 
@@ -30,6 +35,8 @@ class RawExtractBuilder:
             [
                 "timestamp",
                 "total_demand_mwh",
+                "north_demand_mwh",
+                "central_demand_mwh",
                 "north_export_limit_mw",
                 "central_export_limit_mw",
             ]
