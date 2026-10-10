@@ -25,6 +25,15 @@ RAW SYSTEMS:
 6. market_price_raw.csv
 7. dispatch_curtailment_log_raw.csv
 
+REGIONAL DEMAND ALLOCATION:
+    North demand = 45% of total system demand
+    Central demand = 55% of total system demand
+
+This is an explicit synthetic modeling assumption used by the existing
+BESS and dispatch logic, now exposed in ems_operations_raw.csv so regional
+analysis can use the same demand allocation. It is not measured regional
+demand; replace it with regional meter/EMS measurements in a real deployment.
+
 CORE BUSINESS EQUATIONS:
 
 Curtailment
