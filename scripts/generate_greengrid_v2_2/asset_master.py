@@ -1,5 +1,9 @@
 import pandas as pd
 
+# ============================================================================
+# 2. ASSET MASTER
+# ============================================================================
+
 class AssetRegistryBuilder:
     """Builds the clean asset master/reference table."""
 
