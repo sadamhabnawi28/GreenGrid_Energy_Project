@@ -3,6 +3,11 @@ from typing import Dict
 import pandas as pd
 import numpy as np
 
+# ============================================================================
+# 4. RENEWABLE GENERATION MODEL
+# ============================================================================
+
+
 class RenewableGenerationModel:
     """Creates asset availability and clean potential renewable generation."""
 
