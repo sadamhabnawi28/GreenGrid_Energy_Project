@@ -263,6 +263,8 @@ def main() -> int:
     solar_cf = np.clip(base["solar_irradiance_index"].astype(float) * 0.97, 0, 1)
     wind_cf = wind_capacity_factor(base["wind_speed_mps"])
     base["modeled_capacity_factor"] = np.where(is_solar, solar_cf, wind_cf)
+
+    # Potensial generation formula
     base["potential_generation_mwh"] = (
         base["capacity_mw"] * base["modeled_capacity_factor"] * base["availability_factor"] * args.interval_hours
     )
