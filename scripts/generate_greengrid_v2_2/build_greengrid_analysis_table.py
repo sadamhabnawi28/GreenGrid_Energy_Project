@@ -397,15 +397,18 @@ def main() -> int:
     main_out = args.output_dir / "greengrid_asset_hour_analysis.csv"
     system_out = args.output_dir / "greengrid_system_hourly_kpis.csv"
     regional_out = args.output_dir / "greengrid_regional_hourly_kpis.csv"
+    weather_out = args.output_dir / "weather.csv"
     base.to_csv(main_out, index=False)
     system.to_csv(system_out, index=False)
     regional.to_csv(regional_out, index=False)
+    weather.to_csv(weather_out, index=False)
 
     print("SUCCESS: GreenGrid analysis tables created")
     print(f"Main asset-hour table : {main_out} ({len(base):,} rows)")
     print(f"System-hour KPI table : {system_out} ({len(system):,} rows)")
     print(f"Regional-hour table   : {regional_out} ({len(regional):,} rows)")
     print("\nModeled summary (not metered actuals):")
+    print(f"Potential generation : {base['potential_generation_mwh'].sum():,.2f} MWh")
     print(f"Potential generation : {system['system_potential_generation_mwh'].sum():,.2f} MWh")
     print(f"Modeled actual output: {system['system_modeled_actual_generation_mwh'].sum():,.2f} MWh")
     print(f"Modeled curtailment  : {system['system_modeled_curtailment_mwh'].sum():,.2f} MWh")
