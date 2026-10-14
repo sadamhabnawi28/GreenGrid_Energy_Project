@@ -542,7 +542,6 @@ def main() -> int:
     print(f"Main asset-hour table : {main_out} ({len(base):,} rows)")
     print("\nModeled summary (not metered actuals):")
     print(f"Potential generation : {base['potential_generation_mwh'].sum():,.2f} MWh")
-    print(f"Potential generation : {base['potential_generation_mwh'].sum():,.2f} MWh")
     print(f"Modeled actual output: {base['asset_actual_generation_mwh'].sum():,.2f} MWh")
     print(f"Modeled curtailment  : {base['asset_curtailment_mwh'].sum():,.2f} MWh")
     print(f"Curtailment rate     : {base['asset_curtailment_mwh'].sum() / max(base['potential_generation_mwh'].sum(), 1e-9) * 100:.3f}%")
