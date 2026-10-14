@@ -11,6 +11,20 @@ curtailment back to assets, and then aggregates to system-hour grain for KPIs.
 The results are **modeled estimates**, not metered actual generation or
 settlement revenue.
 
+For an asset-hour-only output, use
+[`build_greengrid_asset_hour_analysis.py`](../../scripts/generate_greengrid_v2_2/build_greengrid_asset_hour_analysis.py).
+It calculates and writes only asset-hour rows to
+`greengrid_asset_hour_analysis_v2.csv`; it does not create separate regional
+or system KPI tables or CSV outputs. The asset-hour `base` is the only
+operational analysis table. Regional quantities are allocated within each
+hour by asset potential-generation share, and portfolio quantities by asset
+share of portfolio potential generation. If potential generation is zero for
+a group, installed capacity provides the allocation weights. Hour
+flags/counts are divided evenly across assets so they remain additive, while
+event identifiers/reasons and market prices remain contextual asset-hour
+fields. When SCADA also carries a region column, the asset registry is
+authoritative; conflicts are reported as a warning.
+
 ## Entity-relationship diagram
 
 The diagram shows logical keys and lineage. CSV files do not enforce database
