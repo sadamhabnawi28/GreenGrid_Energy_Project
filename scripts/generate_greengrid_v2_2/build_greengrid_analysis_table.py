@@ -263,8 +263,6 @@ def main() -> int:
     solar_cf = np.clip(base["solar_irradiance_index"].astype(float) * 0.97, 0, 1)
     wind_cf = wind_capacity_factor(base["wind_speed_mps"])
     base["modeled_capacity_factor"] = np.where(is_solar, solar_cf, wind_cf)
-
-    # Potensial generation formula
     base["potential_generation_mwh"] = (
         base["capacity_mw"] * base["modeled_capacity_factor"] * base["availability_factor"] * args.interval_hours
     )
@@ -400,14 +398,12 @@ def main() -> int:
     base.to_csv(main_out, index=False)
     system.to_csv(system_out, index=False)
     regional.to_csv(regional_out, index=False)
-    weather.to_csv(weather_out, index=False)
 
     print("SUCCESS: GreenGrid analysis tables created")
     print(f"Main asset-hour table : {main_out} ({len(base):,} rows)")
     print(f"System-hour KPI table : {system_out} ({len(system):,} rows)")
     print(f"Regional-hour table   : {regional_out} ({len(regional):,} rows)")
     print("\nModeled summary (not metered actuals):")
-    print(f"Potential generation : {base['potential_generation_mwh'].sum():,.2f} MWh")
     print(f"Potential generation : {system['system_potential_generation_mwh'].sum():,.2f} MWh")
     print(f"Modeled actual output: {system['system_modeled_actual_generation_mwh'].sum():,.2f} MWh")
     print(f"Modeled curtailment  : {system['system_modeled_curtailment_mwh'].sum():,.2f} MWh")
