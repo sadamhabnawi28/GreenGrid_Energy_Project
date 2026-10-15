@@ -1,0 +1,10 @@
+metric,value
+total_potential_renewable_mwh,1790631.814
+total_actual_renewable_mwh,1769967.376
+total_curtailment_mwh,20664.438
+curtailment_rate_pct,1.154
+total_potential_surplus_mwh,227547.632
+total_actual_surplus_mwh,206883.194
+peak_hourly_curtailment_mwh,303.348
+hours_with_curtailment,634.0
+hours_with_curtailment_gt_100_mwh,24.0

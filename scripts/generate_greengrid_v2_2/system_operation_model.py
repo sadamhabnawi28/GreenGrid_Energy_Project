@@ -67,7 +67,7 @@ class SystemOperationsModel:
         n_hours = self.time.n_hours
 
         north_limit = np.full(n_hours, 80.0)
-        central_limit = np.full(n_hours, 220.0)
+        central_limit = np.full(n_hours, 50.0)
 
         # Scheduled / forced transmission constraints.
         for region, limit in [
