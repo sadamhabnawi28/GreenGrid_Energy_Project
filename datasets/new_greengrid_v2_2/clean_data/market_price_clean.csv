@@ -85,7 +85,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-01-04 11:00:00,62.03,Market_Feed,Valid
 2025-01-04 12:00:00,76.33,Market_Feed,Valid
 2025-01-04 13:00:00,76.56,Market_Feed,Valid
-2025-01-04 14:00:00,68.4676,Market_Feed,Valid
+2025-01-04 14:00:00,68.46760179951553,Market_Feed,Valid
 2025-01-04 15:00:00,75.86,Market_Feed,Valid
 2025-01-04 16:00:00,81.71,Market_Feed,Valid
 2025-01-04 17:00:00,71.52,Market_Feed,Valid
@@ -279,7 +279,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-01-12 13:00:00,76.02,Market_Feed,Valid
 2025-01-12 14:00:00,77.55,Market_Feed,Valid
 2025-01-12 15:00:00,78.62,Market_Feed,Valid
-2025-01-12 16:00:00,68.4676,Market_Feed,Valid
+2025-01-12 16:00:00,68.46760179951553,Market_Feed,Valid
 2025-01-12 17:00:00,77.91,Market_Feed,Valid
 2025-01-12 18:00:00,67.74,Market_Feed,Valid
 2025-01-12 19:00:00,71.52,Market_Feed,Valid
@@ -554,7 +554,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-01-24 00:00:00,64.69,Market_Feed,Valid
 2025-01-24 01:00:00,55.6,Market_Feed,Valid
 2025-01-24 02:00:00,62.5,Market_Feed,Valid
-2025-01-24 03:00:00,68.4676,Market_Feed,Valid
+2025-01-24 03:00:00,68.46760179951553,Market_Feed,Valid
 2025-01-24 04:00:00,54.25,Market_Feed,Valid
 2025-01-24 05:00:00,66.38,Market_Feed,Valid
 2025-01-24 06:00:00,69.24,Market_Feed,Valid
@@ -754,7 +754,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-02-01 08:00:00,77.65,Market_Feed,Valid
 2025-02-01 09:00:00,69.07,Market_Feed,Valid
 2025-02-01 10:00:00,62.07,Market_Feed,Valid
-2025-02-01 11:00:00,68.4676,Market_Feed,Valid
+2025-02-01 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-02-01 12:00:00,76.0,Market_Feed,Valid
 2025-02-01 13:00:00,66.22,Market_Feed,Valid
 2025-02-01 14:00:00,81.6,Market_Feed,Valid
@@ -1451,7 +1451,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-03-02 09:00:00,80.22,Market_Feed,Valid
 2025-03-02 10:00:00,72.18,Market_Feed,Valid
 2025-03-02 11:00:00,70.76,Market_Feed,Valid
-2025-03-02 12:00:00,68.4676,Market_Feed,Valid
+2025-03-02 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-03-02 13:00:00,72.49,Market_Feed,Valid
 2025-03-02 14:00:00,68.6,Market_Feed,Valid
 2025-03-02 15:00:00,76.81,Market_Feed,Valid
@@ -1811,7 +1811,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-03-17 09:00:00,70.16,Market_Feed,Valid
 2025-03-17 10:00:00,88.68,Market_Feed,Valid
 2025-03-17 11:00:00,82.2,Market_Feed,Valid
-2025-03-17 12:00:00,68.4676,Market_Feed,Valid
+2025-03-17 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-03-17 13:00:00,77.91,Market_Feed,Valid
 2025-03-17 14:00:00,67.96,Market_Feed,Valid
 2025-03-17 15:00:00,82.94,Market_Feed,Valid
@@ -1931,7 +1931,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-03-22 09:00:00,74.83,Market_Feed,Valid
 2025-03-22 10:00:00,75.34,Market_Feed,Valid
 2025-03-22 11:00:00,71.08,Market_Feed,Valid
-2025-03-22 12:00:00,68.4676,Market_Feed,Valid
+2025-03-22 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-03-22 13:00:00,64.47,Market_Feed,Valid
 2025-03-22 14:00:00,79.65,Market_Feed,Valid
 2025-03-22 15:00:00,67.72,Market_Feed,Valid
@@ -2001,7 +2001,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-03-25 07:00:00,68.67,Market_Feed,Valid
 2025-03-25 08:00:00,83.79,Market_Feed,Valid
 2025-03-25 09:00:00,82.11,Market_Feed,Valid
-2025-03-25 10:00:00,68.4676,Market_Feed,Valid
+2025-03-25 10:00:00,68.46760179951552,Market_Feed,Valid
 2025-03-25 11:00:00,80.65,Market_Feed,Valid
 2025-03-25 12:00:00,83.17,Market_Feed,Valid
 2025-03-25 13:00:00,68.14,Market_Feed,Valid
@@ -2029,7 +2029,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-03-26 11:00:00,84.38,Market_Feed,Valid
 2025-03-26 12:00:00,69.11,Market_Feed,Valid
 2025-03-26 13:00:00,68.11,Market_Feed,Valid
-2025-03-26 14:00:00,68.4676,Market_Feed,Valid
+2025-03-26 14:00:00,68.46760179951552,Market_Feed,Valid
 2025-03-26 15:00:00,81.2,Market_Feed,Valid
 2025-03-26 16:00:00,83.49,Market_Feed,Valid
 2025-03-26 17:00:00,74.96,Market_Feed,Valid
@@ -2099,7 +2099,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-03-29 09:00:00,83.1,Market_Feed,Valid
 2025-03-29 10:00:00,73.53,Market_Feed,Valid
 2025-03-29 11:00:00,60.96,Market_Feed,Valid
-2025-03-29 12:00:00,68.4676,Market_Feed,Valid
+2025-03-29 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-03-29 13:00:00,72.59,Market_Feed,Valid
 2025-03-29 14:00:00,78.12,Market_Feed,Valid
 2025-03-29 15:00:00,69.24,Market_Feed,Valid
@@ -2264,7 +2264,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-04-05 06:00:00,65.26,Market_Feed,Valid
 2025-04-05 07:00:00,70.66,Market_Feed,Valid
 2025-04-05 08:00:00,82.44,Market_Feed,Valid
-2025-04-05 09:00:00,68.4676,Market_Feed,Valid
+2025-04-05 09:00:00,68.46760179951552,Market_Feed,Valid
 2025-04-05 10:00:00,71.33,Market_Feed,Valid
 2025-04-05 11:00:00,66.18,Market_Feed,Valid
 2025-04-05 12:00:00,76.12,Market_Feed,Valid
@@ -2435,8 +2435,8 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-04-12 09:00:00,71.91,Market_Feed,Valid
 2025-04-12 10:00:00,58.88,Market_Feed,Valid
 2025-04-12 11:00:00,69.99,Market_Feed,Valid
-2025-04-12 12:00:00,68.4676,Market_Feed,Valid
-2025-04-12 13:00:00,68.4676,Market_Feed,Valid
+2025-04-12 12:00:00,68.46760179951552,Market_Feed,Valid
+2025-04-12 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-04-12 14:00:00,75.59,Market_Feed,Valid
 2025-04-12 15:00:00,85.44,Market_Feed,Valid
 2025-04-12 16:00:00,75.86,Market_Feed,Valid
@@ -2530,7 +2530,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-04-16 08:00:00,74.43,Market_Feed,Valid
 2025-04-16 09:00:00,73.73,Market_Feed,Valid
 2025-04-16 10:00:00,72.38,Market_Feed,Valid
-2025-04-16 11:00:00,68.4676,Market_Feed,Valid
+2025-04-16 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-04-16 12:00:00,78.34,Market_Feed,Valid
 2025-04-16 13:00:00,77.52,Market_Feed,Valid
 2025-04-16 14:00:00,79.7,Market_Feed,Valid
@@ -2626,7 +2626,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-04-20 08:00:00,67.29,Market_Feed,Valid
 2025-04-20 09:00:00,66.54,Market_Feed,Valid
 2025-04-20 10:00:00,67.21,Market_Feed,Valid
-2025-04-20 11:00:00,68.4676,Market_Feed,Valid
+2025-04-20 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-04-20 12:00:00,68.97,Market_Feed,Valid
 2025-04-20 13:00:00,71.5,Market_Feed,Valid
 2025-04-20 14:00:00,79.59,Market_Feed,Valid
@@ -2674,8 +2674,8 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-04-22 08:00:00,77.93,Market_Feed,Valid
 2025-04-22 09:00:00,75.35,Market_Feed,Valid
 2025-04-22 10:00:00,66.81,Market_Feed,Valid
-2025-04-22 11:00:00,68.4676,Market_Feed,Valid
-2025-04-22 12:00:00,68.4676,Market_Feed,Valid
+2025-04-22 11:00:00,68.46760179951552,Market_Feed,Valid
+2025-04-22 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-04-22 13:00:00,73.99,Market_Feed,Valid
 2025-04-22 14:00:00,86.66,Market_Feed,Valid
 2025-04-22 15:00:00,82.62,Market_Feed,Valid
@@ -2684,7 +2684,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-04-22 18:00:00,68.73,Market_Feed,Valid
 2025-04-22 19:00:00,69.17,Market_Feed,Valid
 2025-04-22 20:00:00,74.67,Market_Feed,Valid
-2025-04-22 21:00:00,68.4676,Market_Feed,Valid
+2025-04-22 21:00:00,68.46760179951553,Market_Feed,Valid
 2025-04-22 22:00:00,70.92,Market_Feed,Valid
 2025-04-22 23:00:00,63.06,Market_Feed,Valid
 2025-04-23 00:00:00,64.4,Market_Feed,Valid
@@ -2770,7 +2770,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-04-26 08:00:00,61.13,Market_Feed,Valid
 2025-04-26 09:00:00,76.12,Market_Feed,Valid
 2025-04-26 10:00:00,61.64,Market_Feed,Valid
-2025-04-26 11:00:00,68.4676,Market_Feed,Valid
+2025-04-26 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-04-26 12:00:00,63.1,Market_Feed,Valid
 2025-04-26 13:00:00,68.99,Market_Feed,Valid
 2025-04-26 14:00:00,73.85,Market_Feed,Valid
@@ -2795,7 +2795,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-04-27 09:00:00,69.97,Market_Feed,Valid
 2025-04-27 10:00:00,63.67,Market_Feed,Valid
 2025-04-27 11:00:00,58.31,Market_Feed,Valid
-2025-04-27 12:00:00,68.4676,Market_Feed,Valid
+2025-04-27 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-04-27 13:00:00,70.71,Market_Feed,Valid
 2025-04-27 14:00:00,72.82,Market_Feed,Valid
 2025-04-27 15:00:00,78.93,Market_Feed,Valid
@@ -2965,7 +2965,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-04 11:00:00,66.39,Market_Feed,Valid
 2025-05-04 12:00:00,71.84,Market_Feed,Valid
 2025-05-04 13:00:00,77.36,Market_Feed,Valid
-2025-05-04 14:00:00,68.4676,Market_Feed,Valid
+2025-05-04 14:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-04 15:00:00,77.91,Market_Feed,Valid
 2025-05-04 16:00:00,79.23,Market_Feed,Valid
 2025-05-04 17:00:00,64.8,Market_Feed,Valid
@@ -3034,7 +3034,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-07 08:00:00,70.85,Market_Feed,Valid
 2025-05-07 09:00:00,84.6,Market_Feed,Valid
 2025-05-07 10:00:00,74.96,Market_Feed,Valid
-2025-05-07 11:00:00,68.4676,Market_Feed,Valid
+2025-05-07 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-07 12:00:00,69.89,Market_Feed,Valid
 2025-05-07 13:00:00,75.76,Market_Feed,Valid
 2025-05-07 14:00:00,85.38,Market_Feed,Valid
@@ -3106,7 +3106,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-10 08:00:00,67.73,Market_Feed,Valid
 2025-05-10 09:00:00,65.04,Market_Feed,Valid
 2025-05-10 10:00:00,72.94,Market_Feed,Valid
-2025-05-10 11:00:00,68.4676,Market_Feed,Valid
+2025-05-10 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-10 12:00:00,63.29,Market_Feed,Valid
 2025-05-10 13:00:00,71.56,Market_Feed,Valid
 2025-05-10 14:00:00,74.53,Market_Feed,Valid
@@ -3131,7 +3131,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-11 09:00:00,75.48,Market_Feed,Valid
 2025-05-11 10:00:00,73.26,Market_Feed,Valid
 2025-05-11 11:00:00,61.68,Market_Feed,Valid
-2025-05-11 12:00:00,68.4676,Market_Feed,Valid
+2025-05-11 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-11 13:00:00,68.76,Market_Feed,Valid
 2025-05-11 14:00:00,66.61,Market_Feed,Valid
 2025-05-11 15:00:00,75.16,Market_Feed,Valid
@@ -3248,7 +3248,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-16 06:00:00,62.04,Market_Feed,Valid
 2025-05-16 07:00:00,71.44,Market_Feed,Valid
 2025-05-16 08:00:00,71.2,Market_Feed,Valid
-2025-05-16 09:00:00,68.4676,Market_Feed,Valid
+2025-05-16 09:00:00,68.46760179951553,Market_Feed,Valid
 2025-05-16 10:00:00,65.61,Market_Feed,Valid
 2025-05-16 11:00:00,74.55,Market_Feed,Valid
 2025-05-16 12:00:00,84.06,Market_Feed,Valid
@@ -3275,7 +3275,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-17 09:00:00,71.01,Market_Feed,Valid
 2025-05-17 10:00:00,70.39,Market_Feed,Valid
 2025-05-17 11:00:00,71.02,Market_Feed,Valid
-2025-05-17 12:00:00,68.4676,Market_Feed,Valid
+2025-05-17 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-17 13:00:00,85.35,Market_Feed,Valid
 2025-05-17 14:00:00,75.3,Market_Feed,Valid
 2025-05-17 15:00:00,78.4,Market_Feed,Valid
@@ -3298,10 +3298,10 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-18 08:00:00,69.5,Market_Feed,Valid
 2025-05-18 09:00:00,63.92,Market_Feed,Valid
 2025-05-18 10:00:00,70.33,Market_Feed,Valid
-2025-05-18 11:00:00,68.4676,Market_Feed,Valid
+2025-05-18 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-18 12:00:00,68.2,Market_Feed,Valid
 2025-05-18 13:00:00,69.45,Market_Feed,Valid
-2025-05-18 14:00:00,68.4676,Market_Feed,Valid
+2025-05-18 14:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-18 15:00:00,74.01,Market_Feed,Valid
 2025-05-18 16:00:00,69.91,Market_Feed,Valid
 2025-05-18 17:00:00,64.33,Market_Feed,Valid
@@ -3322,9 +3322,9 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-19 08:00:00,76.47,Market_Feed,Valid
 2025-05-19 09:00:00,60.79,Market_Feed,Valid
 2025-05-19 10:00:00,70.76,Market_Feed,Valid
-2025-05-19 11:00:00,68.4676,Market_Feed,Valid
+2025-05-19 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-19 12:00:00,68.21,Market_Feed,Valid
-2025-05-19 13:00:00,68.4676,Market_Feed,Valid
+2025-05-19 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-19 14:00:00,62.68,Market_Feed,Valid
 2025-05-19 15:00:00,73.29,Market_Feed,Valid
 2025-05-19 16:00:00,81.08,Market_Feed,Valid
@@ -3465,10 +3465,10 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-25 07:00:00,71.16,Market_Feed,Valid
 2025-05-25 08:00:00,76.73,Market_Feed,Valid
 2025-05-25 09:00:00,61.24,Market_Feed,Valid
-2025-05-25 10:00:00,68.4676,Market_Feed,Valid
+2025-05-25 10:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-25 11:00:00,78.96,Market_Feed,Valid
 2025-05-25 12:00:00,59.65,Market_Feed,Valid
-2025-05-25 13:00:00,68.4676,Market_Feed,Valid
+2025-05-25 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-25 14:00:00,76.69,Market_Feed,Valid
 2025-05-25 15:00:00,67.81,Market_Feed,Valid
 2025-05-25 16:00:00,75.09,Market_Feed,Valid
@@ -3492,7 +3492,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-26 10:00:00,58.23,Market_Feed,Valid
 2025-05-26 11:00:00,71.57,Market_Feed,Valid
 2025-05-26 12:00:00,78.8,Market_Feed,Valid
-2025-05-26 13:00:00,68.4676,Market_Feed,Valid
+2025-05-26 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-26 14:00:00,78.58,Market_Feed,Valid
 2025-05-26 15:00:00,86.68,Market_Feed,Valid
 2025-05-26 16:00:00,75.19,Market_Feed,Valid
@@ -3563,7 +3563,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-29 09:00:00,76.68,Market_Feed,Valid
 2025-05-29 10:00:00,78.65,Market_Feed,Valid
 2025-05-29 11:00:00,70.66,Market_Feed,Valid
-2025-05-29 12:00:00,68.4676,Market_Feed,Valid
+2025-05-29 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-29 13:00:00,68.32,Market_Feed,Valid
 2025-05-29 14:00:00,80.97,Market_Feed,Valid
 2025-05-29 15:00:00,82.56,Market_Feed,Valid
@@ -3611,7 +3611,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-05-31 09:00:00,78.12,Market_Feed,Valid
 2025-05-31 10:00:00,67.12,Market_Feed,Valid
 2025-05-31 11:00:00,67.34,Market_Feed,Valid
-2025-05-31 12:00:00,68.4676,Market_Feed,Valid
+2025-05-31 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-05-31 13:00:00,68.86,Market_Feed,Valid
 2025-05-31 14:00:00,76.55,Market_Feed,Valid
 2025-05-31 15:00:00,70.09,Market_Feed,Valid
@@ -3637,7 +3637,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-01 11:00:00,66.91,Market_Feed,Valid
 2025-06-01 12:00:00,69.48,Market_Feed,Valid
 2025-06-01 13:00:00,57.25,Market_Feed,Valid
-2025-06-01 14:00:00,68.4676,Market_Feed,Valid
+2025-06-01 14:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-01 15:00:00,71.04,Market_Feed,Valid
 2025-06-01 16:00:00,77.36,Market_Feed,Valid
 2025-06-01 17:00:00,71.31,Market_Feed,Valid
@@ -3707,7 +3707,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-04 09:00:00,76.92,Market_Feed,Valid
 2025-06-04 10:00:00,72.68,Market_Feed,Valid
 2025-06-04 11:00:00,72.62,Market_Feed,Valid
-2025-06-04 12:00:00,68.4676,Market_Feed,Valid
+2025-06-04 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-04 13:00:00,79.17,Market_Feed,Valid
 2025-06-04 14:00:00,70.24,Market_Feed,Valid
 2025-06-04 15:00:00,74.01,Market_Feed,Valid
@@ -3731,7 +3731,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-05 09:00:00,82.57,Market_Feed,Valid
 2025-06-05 10:00:00,80.35,Market_Feed,Valid
 2025-06-05 11:00:00,64.42,Market_Feed,Valid
-2025-06-05 12:00:00,68.4676,Market_Feed,Valid
+2025-06-05 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-05 13:00:00,85.4,Market_Feed,Valid
 2025-06-05 14:00:00,68.1,Market_Feed,Valid
 2025-06-05 15:00:00,80.35,Market_Feed,Valid
@@ -3945,7 +3945,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-14 07:00:00,75.63,Market_Feed,Valid
 2025-06-14 08:00:00,67.67,Market_Feed,Valid
 2025-06-14 09:00:00,66.86,Market_Feed,Valid
-2025-06-14 10:00:00,68.4676,Market_Feed,Valid
+2025-06-14 10:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-14 11:00:00,76.95,Market_Feed,Valid
 2025-06-14 12:00:00,75.69,Market_Feed,Valid
 2025-06-14 13:00:00,73.03,Market_Feed,Valid
@@ -3971,7 +3971,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-15 09:00:00,71.45,Market_Feed,Valid
 2025-06-15 10:00:00,76.55,Market_Feed,Valid
 2025-06-15 11:00:00,50.56,Market_Feed,Valid
-2025-06-15 12:00:00,68.4676,Market_Feed,Valid
+2025-06-15 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-15 13:00:00,55.83,Market_Feed,Valid
 2025-06-15 14:00:00,69.59,Market_Feed,Valid
 2025-06-15 15:00:00,73.93,Market_Feed,Valid
@@ -3990,7 +3990,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-16 04:00:00,58.89,Market_Feed,Valid
 2025-06-16 05:00:00,64.26,Market_Feed,Valid
 2025-06-16 06:00:00,70.38,Market_Feed,Valid
-2025-06-16 07:00:00,68.4676,Market_Feed,Valid
+2025-06-16 07:00:00,68.46760179951553,Market_Feed,Valid
 2025-06-16 08:00:00,68.21,Market_Feed,Valid
 2025-06-16 09:00:00,67.13,Market_Feed,Valid
 2025-06-16 10:00:00,72.39,Market_Feed,Valid
@@ -4018,7 +4018,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-17 08:00:00,64.3,Market_Feed,Valid
 2025-06-17 09:00:00,78.2,Market_Feed,Valid
 2025-06-17 10:00:00,85.93,Market_Feed,Valid
-2025-06-17 11:00:00,68.4676,Market_Feed,Valid
+2025-06-17 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-17 12:00:00,74.17,Market_Feed,Valid
 2025-06-17 13:00:00,70.48,Market_Feed,Valid
 2025-06-17 14:00:00,79.41,Market_Feed,Valid
@@ -4089,7 +4089,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-20 07:00:00,70.5,Market_Feed,Valid
 2025-06-20 08:00:00,71.9,Market_Feed,Valid
 2025-06-20 09:00:00,70.7,Market_Feed,Valid
-2025-06-20 10:00:00,68.4676,Market_Feed,Valid
+2025-06-20 10:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-20 11:00:00,78.58,Market_Feed,Valid
 2025-06-20 12:00:00,83.22,Market_Feed,Valid
 2025-06-20 13:00:00,75.54,Market_Feed,Valid
@@ -4114,7 +4114,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-21 08:00:00,76.75,Market_Feed,Valid
 2025-06-21 09:00:00,72.34,Market_Feed,Valid
 2025-06-21 10:00:00,79.61,Market_Feed,Valid
-2025-06-21 11:00:00,68.4676,Market_Feed,Valid
+2025-06-21 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-21 12:00:00,61.57,Market_Feed,Valid
 2025-06-21 13:00:00,64.53,Market_Feed,Valid
 2025-06-21 14:00:00,66.69,Market_Feed,Valid
@@ -4137,10 +4137,10 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-22 07:00:00,73.76,Market_Feed,Valid
 2025-06-22 08:00:00,75.06,Market_Feed,Valid
 2025-06-22 09:00:00,73.37,Market_Feed,Valid
-2025-06-22 10:00:00,68.4676,Market_Feed,Valid
+2025-06-22 10:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-22 11:00:00,78.24,Market_Feed,Valid
 2025-06-22 12:00:00,69.77,Market_Feed,Valid
-2025-06-22 13:00:00,68.4676,Market_Feed,Valid
+2025-06-22 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-22 14:00:00,76.19,Market_Feed,Valid
 2025-06-22 15:00:00,61.85,Market_Feed,Valid
 2025-06-22 16:00:00,68.32,Market_Feed,Valid
@@ -4164,7 +4164,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-23 10:00:00,76.76,Market_Feed,Valid
 2025-06-23 11:00:00,68.38,Market_Feed,Valid
 2025-06-23 12:00:00,74.03,Market_Feed,Valid
-2025-06-23 13:00:00,68.4676,Market_Feed,Valid
+2025-06-23 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-23 14:00:00,91.16,Market_Feed,Valid
 2025-06-23 15:00:00,94.42,Market_Feed,Valid
 2025-06-23 16:00:00,74.26,Market_Feed,Valid
@@ -4306,7 +4306,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-06-29 08:00:00,77.53,Market_Feed,Valid
 2025-06-29 09:00:00,68.07,Market_Feed,Valid
 2025-06-29 10:00:00,66.54,Market_Feed,Valid
-2025-06-29 11:00:00,68.4676,Market_Feed,Valid
+2025-06-29 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-06-29 12:00:00,47.21,Market_Feed,Valid
 2025-06-29 13:00:00,68.65,Market_Feed,Valid
 2025-06-29 14:00:00,58.89,Market_Feed,Valid
@@ -4380,7 +4380,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-07-02 10:00:00,73.87,Market_Feed,Valid
 2025-07-02 11:00:00,68.52,Market_Feed,Valid
 2025-07-02 12:00:00,76.3,Market_Feed,Valid
-2025-07-02 13:00:00,68.4676,Market_Feed,Valid
+2025-07-02 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-07-02 14:00:00,76.98,Market_Feed,Valid
 2025-07-02 15:00:00,76.89,Market_Feed,Valid
 2025-07-02 16:00:00,77.65,Market_Feed,Valid
@@ -4406,7 +4406,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-07-03 12:00:00,63.57,Market_Feed,Valid
 2025-07-03 13:00:00,67.05,Market_Feed,Valid
 2025-07-03 14:00:00,74.44,Market_Feed,Valid
-2025-07-03 15:00:00,68.4676,Market_Feed,Valid
+2025-07-03 15:00:00,68.46760179951553,Market_Feed,Valid
 2025-07-03 16:00:00,74.74,Market_Feed,Valid
 2025-07-03 17:00:00,70.6,Market_Feed,Valid
 2025-07-03 18:00:00,74.02,Market_Feed,Valid
@@ -4474,7 +4474,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-07-06 08:00:00,70.24,Market_Feed,Valid
 2025-07-06 09:00:00,73.73,Market_Feed,Valid
 2025-07-06 10:00:00,73.75,Market_Feed,Valid
-2025-07-06 11:00:00,68.4676,Market_Feed,Valid
+2025-07-06 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-07-06 12:00:00,69.84,Market_Feed,Valid
 2025-07-06 13:00:00,72.71,Market_Feed,Valid
 2025-07-06 14:00:00,71.38,Market_Feed,Valid
@@ -4523,7 +4523,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-07-08 09:00:00,76.1,Market_Feed,Valid
 2025-07-08 10:00:00,83.02,Market_Feed,Valid
 2025-07-08 11:00:00,58.2,Market_Feed,Valid
-2025-07-08 12:00:00,68.4676,Market_Feed,Valid
+2025-07-08 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-07-08 13:00:00,83.62,Market_Feed,Valid
 2025-07-08 14:00:00,74.56,Market_Feed,Valid
 2025-07-08 15:00:00,76.83,Market_Feed,Valid
@@ -4641,9 +4641,9 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-07-13 07:00:00,69.04,Market_Feed,Valid
 2025-07-13 08:00:00,64.8,Market_Feed,Valid
 2025-07-13 09:00:00,62.64,Market_Feed,Valid
-2025-07-13 10:00:00,68.4676,Market_Feed,Valid
+2025-07-13 10:00:00,68.46760179951552,Market_Feed,Valid
 2025-07-13 11:00:00,81.08,Market_Feed,Valid
-2025-07-13 12:00:00,68.4676,Market_Feed,Valid
+2025-07-13 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-07-13 13:00:00,69.01,Market_Feed,Valid
 2025-07-13 14:00:00,68.06,Market_Feed,Valid
 2025-07-13 15:00:00,69.77,Market_Feed,Valid
@@ -4727,7 +4727,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-07-16 21:00:00,66.2,Market_Feed,Valid
 2025-07-16 22:00:00,57.76,Market_Feed,Valid
 2025-07-16 23:00:00,56.84,Market_Feed,Valid
-2025-07-17 00:00:00,68.4676,Market_Feed,Valid
+2025-07-17 00:00:00,68.46760179951553,Market_Feed,Valid
 2025-07-17 01:00:00,50.47,Market_Feed,Valid
 2025-07-17 02:00:00,64.12,Market_Feed,Valid
 2025-07-17 03:00:00,50.44,Market_Feed,Valid
@@ -4860,7 +4860,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-07-22 10:00:00,79.2,Market_Feed,Valid
 2025-07-22 11:00:00,78.98,Market_Feed,Valid
 2025-07-22 12:00:00,77.6,Market_Feed,Valid
-2025-07-22 13:00:00,68.4676,Market_Feed,Valid
+2025-07-22 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-07-22 14:00:00,79.39,Market_Feed,Valid
 2025-07-22 15:00:00,76.57,Market_Feed,Valid
 2025-07-22 16:00:00,75.16,Market_Feed,Valid
@@ -4884,7 +4884,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-07-23 10:00:00,61.48,Market_Feed,Valid
 2025-07-23 11:00:00,69.46,Market_Feed,Valid
 2025-07-23 12:00:00,69.68,Market_Feed,Valid
-2025-07-23 13:00:00,68.4676,Market_Feed,Valid
+2025-07-23 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-07-23 14:00:00,67.08,Market_Feed,Valid
 2025-07-23 15:00:00,83.81,Market_Feed,Valid
 2025-07-23 16:00:00,79.77,Market_Feed,Valid
@@ -4954,10 +4954,10 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-07-26 08:00:00,76.43,Market_Feed,Valid
 2025-07-26 09:00:00,75.12,Market_Feed,Valid
 2025-07-26 10:00:00,71.88,Market_Feed,Valid
-2025-07-26 11:00:00,68.4676,Market_Feed,Valid
+2025-07-26 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-07-26 12:00:00,70.66,Market_Feed,Valid
 2025-07-26 13:00:00,67.45,Market_Feed,Valid
-2025-07-26 14:00:00,68.4676,Market_Feed,Valid
+2025-07-26 14:00:00,68.46760179951552,Market_Feed,Valid
 2025-07-26 15:00:00,69.89,Market_Feed,Valid
 2025-07-26 16:00:00,84.76,Market_Feed,Valid
 2025-07-26 17:00:00,79.35,Market_Feed,Valid
@@ -4980,7 +4980,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-07-27 10:00:00,72.55,Market_Feed,Valid
 2025-07-27 11:00:00,78.45,Market_Feed,Valid
 2025-07-27 12:00:00,59.51,Market_Feed,Valid
-2025-07-27 13:00:00,68.4676,Market_Feed,Valid
+2025-07-27 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-07-27 14:00:00,70.72,Market_Feed,Valid
 2025-07-27 15:00:00,71.06,Market_Feed,Valid
 2025-07-27 16:00:00,80.88,Market_Feed,Valid
@@ -5267,7 +5267,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-08-08 09:00:00,64.32,Market_Feed,Valid
 2025-08-08 10:00:00,84.58,Market_Feed,Valid
 2025-08-08 11:00:00,84.81,Market_Feed,Valid
-2025-08-08 12:00:00,68.4676,Market_Feed,Valid
+2025-08-08 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-08-08 13:00:00,87.49,Market_Feed,Valid
 2025-08-08 14:00:00,66.54,Market_Feed,Valid
 2025-08-08 15:00:00,71.01,Market_Feed,Valid
@@ -5316,7 +5316,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-08-10 10:00:00,71.26,Market_Feed,Valid
 2025-08-10 11:00:00,61.12,Market_Feed,Valid
 2025-08-10 12:00:00,84.19,Market_Feed,Valid
-2025-08-10 13:00:00,68.4676,Market_Feed,Valid
+2025-08-10 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-08-10 14:00:00,69.93,Market_Feed,Valid
 2025-08-10 15:00:00,75.84,Market_Feed,Valid
 2025-08-10 16:00:00,78.19,Market_Feed,Valid
@@ -5410,9 +5410,9 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-08-14 08:00:00,80.32,Market_Feed,Valid
 2025-08-14 09:00:00,56.3,Market_Feed,Valid
 2025-08-14 10:00:00,79.86,Market_Feed,Valid
-2025-08-14 11:00:00,68.4676,Market_Feed,Valid
+2025-08-14 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-08-14 12:00:00,81.1,Market_Feed,Valid
-2025-08-14 13:00:00,68.4676,Market_Feed,Valid
+2025-08-14 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-08-14 14:00:00,74.48,Market_Feed,Valid
 2025-08-14 15:00:00,87.37,Market_Feed,Valid
 2025-08-14 16:00:00,78.76,Market_Feed,Valid
@@ -5420,7 +5420,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-08-14 18:00:00,69.45,Market_Feed,Valid
 2025-08-14 19:00:00,70.4,Market_Feed,Valid
 2025-08-14 20:00:00,74.04,Market_Feed,Valid
-2025-08-14 21:00:00,68.4676,Market_Feed,Valid
+2025-08-14 21:00:00,68.46760179951553,Market_Feed,Valid
 2025-08-14 22:00:00,65.83,Market_Feed,Valid
 2025-08-14 23:00:00,60.02,Market_Feed,Valid
 2025-08-15 00:00:00,58.45,Market_Feed,Valid
@@ -5458,7 +5458,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-08-16 08:00:00,79.26,Market_Feed,Valid
 2025-08-16 09:00:00,62.33,Market_Feed,Valid
 2025-08-16 10:00:00,68.99,Market_Feed,Valid
-2025-08-16 11:00:00,68.4676,Market_Feed,Valid
+2025-08-16 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-08-16 12:00:00,62.95,Market_Feed,Valid
 2025-08-16 13:00:00,70.49,Market_Feed,Valid
 2025-08-16 14:00:00,69.79,Market_Feed,Valid
@@ -5481,11 +5481,11 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-08-17 07:00:00,68.05,Market_Feed,Valid
 2025-08-17 08:00:00,73.75,Market_Feed,Valid
 2025-08-17 09:00:00,67.28,Market_Feed,Valid
-2025-08-17 10:00:00,68.4676,Market_Feed,Valid
+2025-08-17 10:00:00,68.46760179951552,Market_Feed,Valid
 2025-08-17 11:00:00,65.69,Market_Feed,Valid
-2025-08-17 12:00:00,68.4676,Market_Feed,Valid
-2025-08-17 13:00:00,68.4676,Market_Feed,Valid
-2025-08-17 14:00:00,68.4676,Market_Feed,Valid
+2025-08-17 12:00:00,68.46760179951552,Market_Feed,Valid
+2025-08-17 13:00:00,68.46760179951552,Market_Feed,Valid
+2025-08-17 14:00:00,68.46760179951552,Market_Feed,Valid
 2025-08-17 15:00:00,72.61,Market_Feed,Valid
 2025-08-17 16:00:00,83.09,Market_Feed,Valid
 2025-08-17 17:00:00,78.66,Market_Feed,Valid
@@ -5794,7 +5794,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-08-30 08:00:00,68.8,Market_Feed,Valid
 2025-08-30 09:00:00,69.25,Market_Feed,Valid
 2025-08-30 10:00:00,75.46,Market_Feed,Valid
-2025-08-30 11:00:00,68.4676,Market_Feed,Valid
+2025-08-30 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-08-30 12:00:00,74.27,Market_Feed,Valid
 2025-08-30 13:00:00,71.25,Market_Feed,Valid
 2025-08-30 14:00:00,73.95,Market_Feed,Valid
@@ -5971,7 +5971,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-09-06 17:00:00,76.88,Market_Feed,Valid
 2025-09-06 18:00:00,69.8,Market_Feed,Valid
 2025-09-06 19:00:00,72.65,Market_Feed,Valid
-2025-09-06 20:00:00,68.4676,Market_Feed,Valid
+2025-09-06 20:00:00,68.46760179951553,Market_Feed,Valid
 2025-09-06 21:00:00,65.47,Market_Feed,Valid
 2025-09-06 22:00:00,56.89,Market_Feed,Valid
 2025-09-06 23:00:00,52.22,Market_Feed,Valid
@@ -6107,7 +6107,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-09-12 09:00:00,74.68,Market_Feed,Valid
 2025-09-12 10:00:00,71.97,Market_Feed,Valid
 2025-09-12 11:00:00,61.08,Market_Feed,Valid
-2025-09-12 12:00:00,68.4676,Market_Feed,Valid
+2025-09-12 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-09-12 13:00:00,70.77,Market_Feed,Valid
 2025-09-12 14:00:00,89.55,Market_Feed,Valid
 2025-09-12 15:00:00,81.05,Market_Feed,Valid
@@ -6130,8 +6130,8 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-09-13 08:00:00,69.24,Market_Feed,Valid
 2025-09-13 09:00:00,65.96,Market_Feed,Valid
 2025-09-13 10:00:00,73.62,Market_Feed,Valid
-2025-09-13 11:00:00,68.4676,Market_Feed,Valid
-2025-09-13 12:00:00,68.4676,Market_Feed,Valid
+2025-09-13 11:00:00,68.46760179951552,Market_Feed,Valid
+2025-09-13 12:00:00,68.46760179951552,Market_Feed,Valid
 2025-09-13 13:00:00,78.36,Market_Feed,Valid
 2025-09-13 14:00:00,71.21,Market_Feed,Valid
 2025-09-13 15:00:00,72.5,Market_Feed,Valid
@@ -6271,7 +6271,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-09-19 05:00:00,62.47,Market_Feed,Valid
 2025-09-19 06:00:00,65.89,Market_Feed,Valid
 2025-09-19 07:00:00,70.12,Market_Feed,Valid
-2025-09-19 08:00:00,68.4676,Market_Feed,Valid
+2025-09-19 08:00:00,68.46760179951553,Market_Feed,Valid
 2025-09-19 09:00:00,78.1,Market_Feed,Valid
 2025-09-19 10:00:00,87.8,Market_Feed,Valid
 2025-09-19 11:00:00,76.38,Market_Feed,Valid
@@ -6659,8 +6659,8 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-10-05 09:00:00,62.15,Market_Feed,Valid
 2025-10-05 10:00:00,61.76,Market_Feed,Valid
 2025-10-05 11:00:00,77.72,Market_Feed,Valid
-2025-10-05 12:00:00,68.4676,Market_Feed,Valid
-2025-10-05 13:00:00,68.4676,Market_Feed,Valid
+2025-10-05 12:00:00,68.46760179951552,Market_Feed,Valid
+2025-10-05 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-10-05 14:00:00,69.86,Market_Feed,Valid
 2025-10-05 15:00:00,77.38,Market_Feed,Valid
 2025-10-05 16:00:00,77.07,Market_Feed,Valid
@@ -6802,7 +6802,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-10-11 08:00:00,78.88,Market_Feed,Valid
 2025-10-11 09:00:00,85.54,Market_Feed,Valid
 2025-10-11 10:00:00,57.46,Market_Feed,Valid
-2025-10-11 11:00:00,68.4676,Market_Feed,Valid
+2025-10-11 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-10-11 12:00:00,73.86,Market_Feed,Valid
 2025-10-11 13:00:00,67.12,Market_Feed,Valid
 2025-10-11 14:00:00,76.54,Market_Feed,Valid
@@ -6970,7 +6970,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-10-18 08:00:00,67.78,Market_Feed,Valid
 2025-10-18 09:00:00,70.75,Market_Feed,Valid
 2025-10-18 10:00:00,62.43,Market_Feed,Valid
-2025-10-18 11:00:00,68.4676,Market_Feed,Valid
+2025-10-18 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-10-18 12:00:00,74.28,Market_Feed,Valid
 2025-10-18 13:00:00,67.83,Market_Feed,Valid
 2025-10-18 14:00:00,74.03,Market_Feed,Valid
@@ -7011,7 +7011,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-10-20 01:00:00,59.46,Market_Feed,Valid
 2025-10-20 02:00:00,60.31,Market_Feed,Valid
 2025-10-20 03:00:00,53.84,Market_Feed,Valid
-2025-10-20 04:00:00,68.4676,Market_Feed,Valid
+2025-10-20 04:00:00,68.46760179951553,Market_Feed,Valid
 2025-10-20 05:00:00,57.69,Market_Feed,Valid
 2025-10-20 06:00:00,65.62,Market_Feed,Valid
 2025-10-20 07:00:00,65.46,Market_Feed,Valid
@@ -7163,8 +7163,8 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-10-26 09:00:00,78.67,Market_Feed,Valid
 2025-10-26 10:00:00,72.41,Market_Feed,Valid
 2025-10-26 11:00:00,75.99,Market_Feed,Valid
-2025-10-26 12:00:00,68.4676,Market_Feed,Valid
-2025-10-26 13:00:00,68.4676,Market_Feed,Valid
+2025-10-26 12:00:00,68.46760179951552,Market_Feed,Valid
+2025-10-26 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-10-26 14:00:00,63.0,Market_Feed,Valid
 2025-10-26 15:00:00,72.23,Market_Feed,Valid
 2025-10-26 16:00:00,79.27,Market_Feed,Valid
@@ -7302,7 +7302,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-11-01 04:00:00,65.3,Market_Feed,Valid
 2025-11-01 05:00:00,62.14,Market_Feed,Valid
 2025-11-01 06:00:00,64.87,Market_Feed,Valid
-2025-11-01 07:00:00,68.4676,Market_Feed,Valid
+2025-11-01 07:00:00,68.46760179951553,Market_Feed,Valid
 2025-11-01 08:00:00,74.87,Market_Feed,Valid
 2025-11-01 09:00:00,74.56,Market_Feed,Valid
 2025-11-01 10:00:00,63.73,Market_Feed,Valid
@@ -7330,7 +7330,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-11-02 08:00:00,76.5,Market_Feed,Valid
 2025-11-02 09:00:00,71.16,Market_Feed,Valid
 2025-11-02 10:00:00,69.92,Market_Feed,Valid
-2025-11-02 11:00:00,68.4676,Market_Feed,Valid
+2025-11-02 11:00:00,68.46760179951552,Market_Feed,Valid
 2025-11-02 12:00:00,74.5,Market_Feed,Valid
 2025-11-02 13:00:00,69.42,Market_Feed,Valid
 2025-11-02 14:00:00,79.1,Market_Feed,Valid
@@ -7833,7 +7833,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-11-23 07:00:00,67.98,Market_Feed,Valid
 2025-11-23 08:00:00,66.59,Market_Feed,Valid
 2025-11-23 09:00:00,74.26,Market_Feed,Valid
-2025-11-23 10:00:00,68.4676,Market_Feed,Valid
+2025-11-23 10:00:00,68.46760179951552,Market_Feed,Valid
 2025-11-23 11:00:00,75.97,Market_Feed,Valid
 2025-11-23 12:00:00,72.33,Market_Feed,Valid
 2025-11-23 13:00:00,66.6,Market_Feed,Valid
@@ -7989,7 +7989,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-11-29 19:00:00,68.63,Market_Feed,Valid
 2025-11-29 20:00:00,70.16,Market_Feed,Valid
 2025-11-29 21:00:00,74.51,Market_Feed,Valid
-2025-11-29 22:00:00,68.4676,Market_Feed,Valid
+2025-11-29 22:00:00,68.46760179951553,Market_Feed,Valid
 2025-11-29 23:00:00,54.27,Market_Feed,Valid
 2025-11-30 00:00:00,56.23,Market_Feed,Valid
 2025-11-30 01:00:00,67.55,Market_Feed,Valid
@@ -8069,7 +8069,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-12-03 03:00:00,64.29,Market_Feed,Valid
 2025-12-03 04:00:00,64.93,Market_Feed,Valid
 2025-12-03 05:00:00,59.08,Market_Feed,Valid
-2025-12-03 06:00:00,68.4676,Market_Feed,Valid
+2025-12-03 06:00:00,68.46760179951553,Market_Feed,Valid
 2025-12-03 07:00:00,66.31,Market_Feed,Valid
 2025-12-03 08:00:00,71.09,Market_Feed,Valid
 2025-12-03 09:00:00,76.12,Market_Feed,Valid
@@ -8142,7 +8142,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-12-06 04:00:00,66.8,Market_Feed,Valid
 2025-12-06 05:00:00,65.85,Market_Feed,Valid
 2025-12-06 06:00:00,71.92,Market_Feed,Valid
-2025-12-06 07:00:00,68.4676,Market_Feed,Valid
+2025-12-06 07:00:00,68.46760179951553,Market_Feed,Valid
 2025-12-06 08:00:00,66.29,Market_Feed,Valid
 2025-12-06 09:00:00,68.44,Market_Feed,Valid
 2025-12-06 10:00:00,71.75,Market_Feed,Valid
@@ -8275,7 +8275,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-12-11 17:00:00,70.22,Market_Feed,Valid
 2025-12-11 18:00:00,74.74,Market_Feed,Valid
 2025-12-11 19:00:00,63.82,Market_Feed,Valid
-2025-12-11 20:00:00,68.4676,Market_Feed,Valid
+2025-12-11 20:00:00,68.46760179951553,Market_Feed,Valid
 2025-12-11 21:00:00,62.8,Market_Feed,Valid
 2025-12-11 22:00:00,60.9,Market_Feed,Valid
 2025-12-11 23:00:00,58.14,Market_Feed,Valid
@@ -8484,7 +8484,7 @@ timestamp,market_price_usd_per_mwh,source_system,record_status
 2025-12-20 10:00:00,73.23,Market_Feed,Valid
 2025-12-20 11:00:00,67.75,Market_Feed,Valid
 2025-12-20 12:00:00,75.83,Market_Feed,Valid
-2025-12-20 13:00:00,68.4676,Market_Feed,Valid
+2025-12-20 13:00:00,68.46760179951552,Market_Feed,Valid
 2025-12-20 14:00:00,70.34,Market_Feed,Valid
 2025-12-20 15:00:00,72.27,Market_Feed,Valid
 2025-12-20 16:00:00,77.41,Market_Feed,Valid
