@@ -397,7 +397,6 @@ def main() -> int:
     main_out = args.output_dir / "greengrid_asset_hour_analysis.csv"
     system_out = args.output_dir / "greengrid_system_hourly_kpis.csv"
     regional_out = args.output_dir / "greengrid_regional_hourly_kpis.csv"
-    weather_out = args.output_dir / "weather.csv"
     base.to_csv(main_out, index=False)
     system.to_csv(system_out, index=False)
     regional.to_csv(regional_out, index=False)
